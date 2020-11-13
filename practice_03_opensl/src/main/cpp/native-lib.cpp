@@ -1,7 +1,3 @@
-//
-// Created by 叶亮 on 2019/1/7.
-//
-
 
 #include <jni.h>
 #include <SLES/OpenSLES.h>
